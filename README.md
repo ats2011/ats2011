@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ats2011
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML&CSS
+- 🌱 I’m currently learning Python
 
 <!---
 ats2011/ats2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
